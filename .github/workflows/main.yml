@@ -1,4 +1,4 @@
-workflow "Deploy Worker {
+workflow "Deploy Worker" {
   on = "push"
   resolves = ["cloudflare/serverless-action@master"]
 }
