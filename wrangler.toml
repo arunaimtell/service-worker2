@@ -1,0 +1,5 @@
+name = "arun6151.workers.dev"
+type = "webpack"
+workers_dev = true
+route = ""
+zone_id = ""
